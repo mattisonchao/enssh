@@ -7,6 +7,7 @@
   <b>Enssh is the simple and powerful ssh tools to manager your servers.</b><br>
 </p>
 <br>
+<p align="center"><a href="README_zh_CN.md">简体中文</a></p>
 <br>
 <p align="center">
   <sub>(Example shows enssh)</sub>
